@@ -18,7 +18,7 @@
 
 ###
 
-<p data-importer="text" align="left">![GitHub Mini Badge](https://ghstats.dev/api/mini?username=MateoMG-cmd)</p>
+![GitHub Mini Badge](https://ghstats.dev/api/mini?username=MateoMG-cmd)</p>
 
 ###
 
