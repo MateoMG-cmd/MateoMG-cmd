@@ -63,17 +63,9 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=MateoMG-cmd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/MateoMG-cmd/MateoMG-cmd/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/MateoMG-cmd/MateoMG-cmd/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MateoMG-cmd&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  ![GitHub Stats Card](https://ghstats.dev/api/card?username=MateoMG-cmd)
+  ![Top Languages](https://ghstats.dev/api/langs?username=MateoMG-cmd&layout=horizontal_list)
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MateoMG-cmd/MateoMG-cmd/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MateoMG-cmd/MateoMG-cmd/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MateoMG-cmd/MateoMG-cmd/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
