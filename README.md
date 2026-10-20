@@ -13,7 +13,7 @@
 
 ### 🎭 Language and Tools 🎭
 
-  [![My Skills](https://skillicons.dev/icons?i=linux,docker,java,python,js,css,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,docker,java,python,js,css,vscode)](https://mxteomg.xyz)
 
 #
 
