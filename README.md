@@ -16,9 +16,9 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=MateoMG-cmd.MateoMG-cmd&"  />
 </div>
 
-###
-
-![GitHub Mini Badge](https://ghstats.dev/api/mini?username=MateoMG-cmd)</p>
+###<div data-importer="profile-views" align="center">
+  ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=MateoMG-cmd)</p>
+</div>
 
 ###
 
